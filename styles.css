@@ -1,1 +1,48 @@
-/* Write your CSS here! */
+h1 {
+  text-decoration: underline;
+  color: goldenrod;
+  font-family: "Pacifico", cursive;
+}
+
+h2 {
+  text-decoration: underline;
+  color: goldenrod;
+  font-family: "Pacifico", cursive;
+  text-align: center;
+}
+
+h3 {
+  text-decoration: underline;
+  color: goldenrod;
+  font-family: "Pacifico", cursive;
+}
+
+h4 {
+  text-decoration: underline;
+  color: goldenrod;
+  font-family: "Pacifico", cursive;
+}
+
+body {
+  background-color: rgb(68, 1, 131);
+  font-size: large;
+}
+
+img {
+  width: 580px;
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 20px;
+  border: 2px solid #ccc;
+  border-radius: 10px;
+}
+
+footer {
+  color: goldenrod;
+}
+p {
+  text-align: left;
+  margin-left: 10px;
+  width: 600px;
+  color: aliceblue;
+}
